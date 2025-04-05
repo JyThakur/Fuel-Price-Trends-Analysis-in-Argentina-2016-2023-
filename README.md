@@ -1,7 +1,7 @@
-# **Fuel Price Trends Analysis in Argentina (2022-2023)**
+# **Fuel Price Trends Analysis in Argentina (2016-2023)**
 
 ## **Introduction**  
-This Power BI dashboard analyzes **fuel price trends across Argentina** from 2022 to 2023, focusing on five key products:  
+This Power BI dashboard analyzes **fuel price trends across Argentina** from 2016 to 2023, focusing on five key products:  
 - **Compressed Natural Gas (CNG)**  
 - **Gasoil Grade 2 & 3**  
 - **Petrol Premium (95 Octane)**  
